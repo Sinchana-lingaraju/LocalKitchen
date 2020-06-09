@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:homemade/widgets/favorite_contacts.dart';
+
 import 'package:homemade/widgets/recent_chats.dart';
 
 class HomeScreen extends StatefulWidget {
